@@ -1,4 +1,4 @@
-## [About me](https://mycard-ken.vercel.app)
+## [kenzhou.link](https://kenzhou.link)
 
 <!--
 **notken12/notken12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
