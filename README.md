@@ -1,6 +1,6 @@
 ## [kenzhou.link](https://kenzhou.link)
 
-:wave: Hi, I'm Ken. I'm a 17 year old full-stack developer from Northern Virginia who loves my dog Mango.
+:wave: Hi, I'm Ken. I'm a 18 year old full-stack developer from Northern Virginia who loves my dog Mango.
 
 [![Ken Zhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=notken12&hide_rank=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
