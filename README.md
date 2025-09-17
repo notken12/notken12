@@ -1,6 +1,6 @@
-## [kenzhou.link](https://kenzhou.link)
+## [kenzhou.dev](https://kenzhou.dev)
 
-:wave: Hi, I'm Ken. I'm a 18 year old full-stack developer from Northern Virginia who loves my dog Mango.
+:wave: Hi, I'm Ken. I'm a software engineer who loves spending time with my dog Mango, exploring the outdoors, and taking beautiful [photos](https://kenzhou.dev/photography). I'm currently working at [a37](https://www.a37.ai), the applied AI lab reimagining DevOps.
 
 [![Ken Zhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=notken12&hide_rank=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
